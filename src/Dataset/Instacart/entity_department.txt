@@ -1,0 +1,21 @@
+134	1	frozen
+135	2	other
+136	3	bakery
+137	4	produce
+138	5	alcohol
+139	6	international
+140	7	beverages
+141	8	pets
+142	9	dry goods pasta
+143	10	bulk
+144	11	personal care
+145	12	meat seafood
+146	13	pantry
+147	14	breakfast
+148	15	canned goods
+149	16	dairy eggs
+150	17	household
+151	18	babies
+152	19	snacks
+153	20	deli
+154	21	missing
