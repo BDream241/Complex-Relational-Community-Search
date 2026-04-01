@@ -1,5 +1,4 @@
 
-
 <h1>Complex Relational Community Search</h1>
 
 <p>
